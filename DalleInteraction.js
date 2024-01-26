@@ -19,10 +19,3 @@ export class DalleInteraction extends Interaction{
 
 
 export default DalleInteraction;
-
-
-// this is a comment 
-
-// another comment
-
-// comment
